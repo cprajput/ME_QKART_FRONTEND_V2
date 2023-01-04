@@ -2,8 +2,8 @@ import { Button } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useEffect } from "react";
 import { useHistory } from "react-router-dom";
-import Footer from "./Footer";
-import Header from "./Header";
+import Footer from "../footer/Footer";
+import Header from "../header/Header";
 import "./Thanks.css";
 
 const Thanks = () => {
