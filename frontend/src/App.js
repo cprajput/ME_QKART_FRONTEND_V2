@@ -1,8 +1,7 @@
 import Register from "./components/register/Register";
-import ipConfig from "./ipConfig.json";
 import { Route, Switch } from "react-router-dom";
 import Login from "./components/login/Login";
-import Products from "./components/Products";
+import Products from "./components/products/Products";
 import Checkout from "./components/checkout/Checkout";
 import Thanks from "./components/thanks/Thanks";
 
